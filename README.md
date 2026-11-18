@@ -49,14 +49,14 @@ AuthenticationSystem/
 │       │
 │       ├── Controller/
 │       │   ├── AuthController.java
-│       │   └── AdminController.java
+│      
 │       │
 │       ├── DTO/
 │       │   ├── RegisterDTO.java
 │       │   ├── LoginDTO.java
 │       │   ├── AuthResponseDTO.java
 │       │   ├── UserResponseDTO.java
-│       │   └── RoleUpdateDTO.java
+│     
 │       │
 │       ├── Entity/
 │       │   └── User.java
@@ -98,7 +98,7 @@ Make sure you have installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/Deviron01/AuthenticationSystem.git
 ```
 
 Navigate into the project directory:
